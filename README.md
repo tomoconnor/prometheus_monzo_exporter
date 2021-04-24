@@ -7,3 +7,7 @@ Run the docker container with the following environment variables
 * ACCESS_TOKEN
 
 Fetch the metrics from 127.0.0.1:9823
+
+Docker Hub: https://hub.docker.com/r/devopstom/prometheus-monzo-exporter
+
+![Docker Pulls](https://img.shields.io/docker/pulls/devopstom/prometheus-monzo-exporter)
